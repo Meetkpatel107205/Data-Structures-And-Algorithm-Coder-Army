@@ -1,0 +1,31 @@
+# === C++ build files ===
+*.exe
+*.out
+*.o
+*.obj
+*.gch
+*.class
+*.a
+*.so
+*.dll
+
+# === Text files (e.g., input/output test cases) ===
+*.txt
+
+# === Backup files ===
+*~
+*.swp
+*.tmp
+
+# === VS Code settings ===
+.vscode/
+
+# === Competitive Programming Helper files ===
+.cph/
+*.cphconfig
+
+# === macOS system files ===
+.DS_Store
+
+# === Windows system files ===
+Thumbs.db
